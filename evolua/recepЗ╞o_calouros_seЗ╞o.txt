@@ -1,0 +1,59 @@
+<section id="participe" class="testimonial-section style1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="title-section center">
+                            <h2 class="title">
+                                <strong>Participe da Recepção de Calouros</strong>
+                            </h2>
+                            
+                        </div><!-- /.title-section -->
+                        
+                         
+                    </div><!-- /.col-md-12 -->
+                </div><!-- /.row -->
+                
+                <div class="row iconbox-wrap">
+                    
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="iconbox">
+                            <div class="iconbox-icon">
+                                <div class="icon" >
+                                    <span style="font-size: 55px;" class="fa fa-calendar"></span><br>
+									<h3 class="sub-title"> Data</h3>
+                                <p style="color:black;">12 a 14 de agosto</p>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div><!-- /.col-lg-4 col-sm-12 -->
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="iconbox" >
+                            <div class="iconbox-icon">
+                                <div class="icon">
+                                    <span style="font-size: 55px;" class="fa fa-building"></span><br>
+									<h3 class="sub-title">Local</h3>
+									<p style="color:black;">Teatro FECAP</p>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div><!-- /.col-lg-4 col-sm-12 -->
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="iconbox" >
+                            <div class="iconbox-icon">
+                                <div class="icon">
+								
+                                    <span  style="font-size: 55px;" class="fa fa-hourglass-start"></span><br>
+									<h3 class="sub-title">Horário</h3>
+									<p style="color:black;">7h30 e 19h</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div><!-- /.col-lg-4 col-sm-12 -->
+
+                </div><!-- /.row -->
+               
+            </div><!-- /.container -->
+        </section><!-- /.section-video -->
